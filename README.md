@@ -11,6 +11,7 @@
 # 📫 How to reach me: ...
 
 * [LinkedIn](https://www.linkedin.com/in/richardsnick/)
+* [GitHub](https://github.com/nrichards) profile
 
 # ⚡ Fun fact: ...
 
